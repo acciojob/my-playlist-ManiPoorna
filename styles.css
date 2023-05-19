@@ -19,4 +19,6 @@ div.player_two{
 	background-color : white;
 	border-radius : 5px;
 	padding : 20px;
+	height : 70vh;
+	width : 63vh;
 }
