@@ -7,7 +7,7 @@ h1,h4{
 }
 div.player_one{
 	border-radius : 5px;
-	padding : 10px;
+	padding : 10px 0px;
 	background-color : white;
 }
 div a{
@@ -21,4 +21,7 @@ div.player_two{
 	padding : 20px;
 	height : 70vh;
 	width : 63vh;
+}
+audio{
+	width : 100%;
 }
