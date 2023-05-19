@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body{
+	background-color : #cccccc;
+}
+h1,h4{
+	text-align : center;
+}
+div.player_one{
+	border-radius : 5px;
+	padding : 10px;
+	background-color : white;
+}
+div a{
+	color : black;
+	text-decoration : none;
+}
+div.player_two{
+	background-color : white;
+	border-radius : 5px;
+}
